@@ -1,3 +1,0 @@
-sut:
-build: .
-command: print "Docker Cloud demo test"
